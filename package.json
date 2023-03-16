@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
+    "daisyui": "^2.51.4",
     "formik": "^2.2.9",
     "next": "13.1.6",
     "postcss": "^8.4.21",
